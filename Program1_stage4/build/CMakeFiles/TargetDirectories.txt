@@ -1,0 +1,3 @@
+/home/nastasia/Program1_stage4/build/CMakeFiles/program1.dir
+/home/nastasia/Program1_stage4/build/CMakeFiles/edit_cache.dir
+/home/nastasia/Program1_stage4/build/CMakeFiles/rebuild_cache.dir
